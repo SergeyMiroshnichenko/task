@@ -1,4 +1,4 @@
-var btns = document.querySelectorAll('.btn_users')
+const btns = document.querySelectorAll('.btn_users')
 
 btns.forEach(function(btn) {
 
